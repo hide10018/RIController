@@ -20,5 +20,15 @@
   "hour_ago":"時間前",
   "now":"現在",
   "home":"ホーム",
-  "outlier" : "異常値検出"
+  "outlier" : "異常値検出",
+  "anomaly" : "異常値",
+  "safety" : "正常",
+  "power" : "電源管理",
+  "all" : "全ての電源",
+  "fan" : "扇風機",
+  "humidifier" : "加湿器",
+  "light" : "ライト",
+  "air_cleaner" : "空気清浄機",
+  "sensor" : "センサー類",
+  "layout" : "レイアウト"
 }

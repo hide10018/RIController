@@ -20,5 +20,15 @@
   "hour_ago":"h ago",
   "now":"Now",
   "home":"Home",
-  "outlier" : "Outlier"
+  "outlier" : "Outlier",
+  "anomaly" : "Anomaly",
+  "safety" : "Safety",
+  "power" : "Power",
+  "all" : "All",
+  "fan" : "Fan",
+  "humidifier" : "Humidifier",
+  "light" : "Light",
+  "air_cleaner" : "AirCleaner",
+  "sensor" : "Sensor",
+  "layout" : "Layout"
 }

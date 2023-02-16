@@ -54,5 +54,29 @@
       });
     });
   </script>
+  <script type="module">
+    // Import the functions you need from the SDKs you need
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/9.12.1/firebase-app.js";
+    import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.12.1/firebase-analytics.js";
+    // TODO: Add SDKs for Firebase products that you want to use
+    // https://firebase.google.com/docs/web/setup#available-libraries
+  
+    // Your web app's Firebase configuration
+    // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+    const firebaseConfig = {
+      apiKey: "AIzaSyBLb0UpFvYKo0WmEKTqOVXaoT1n5j_yEss",
+      authDomain: "iot-database-fb343.firebaseapp.com",
+      databaseURL: "https://iot-database-fb343-default-rtdb.firebaseio.com",
+      projectId: "iot-database-fb343",
+      storageBucket: "iot-database-fb343.appspot.com",
+      messagingSenderId: "987381351843",
+      appId: "1:987381351843:web:c91707976137e59f8a8616",
+      measurementId: "G-Q7TVFXFXSW"
+    };
+  
+    // Initialize Firebase
+    const app = initializeApp(firebaseConfig);
+    const analytics = getAnalytics(app);
+  </script>
 </body>
 </html>

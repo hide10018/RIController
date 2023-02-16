@@ -20,5 +20,15 @@
   "hour_ago":"h antes",
   "now":"ahora",
   "home": "hogar",
-  "outlier" : "Parte aislada"
+  "outlier" : "Parte aislada",
+  "anomaly" : "anomalía",
+  "safety" : "seguridad",
+  "power" : "poder",
+  "all" : "todo",
+  "fan" : "ventilador",
+  "humidifier" : "humidificador",
+  "light" : "luz",
+  "air_cleaner" : "limpiador de aire",
+  "sensor" : "Sensor",
+  "layout" : "Diseño"
 }

@@ -20,5 +20,15 @@
   "hour_ago":"小时前",
   "now":"现在",
   "home": "家",
-  "outlier" : "离群值"
+  "outlier" : "离群值",
+  "anomaly" : "异常现象",
+  "safety" : "安全问题",
+  "power" : "权力",
+  "all" : "全部",
+  "fan" : "风扇",
+  "humidifier" : "加湿器",
+  "light" : "亮度",
+  "air_cleaner" : "空气净化器",
+  "sensor" : "传感器",
+  "layout" : "布局"
 }
