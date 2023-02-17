@@ -19,7 +19,7 @@ RI Controllerはセンサーを搭載したIoTデバイスで取得した室内�
 
 
 参考
-<img width="1096" alt="スクリーンショット 2023-02-17 6 34 03" src="https://user-images.githubusercontent.com/103611012/219497948-703997f5-7340-43d6-bec5-54b483a14674.png">
+<img width="871" alt="スクリーンショット 2023-02-17 6 34 03" src="https://user-images.githubusercontent.com/103611012/219497948-703997f5-7340-43d6-bec5-54b483a14674.png">
 
 # :car:企画背景
 このテーマに決めた背景は2点あります。<br>
@@ -36,7 +36,7 @@ RI Controllerはセンサーを搭載したIoTデバイスで取得した室内�
 実際に2020年時点で90%弱の人がスマートフォンを手にしており、モバイルアプリの需要は大きいと踏んでいます。<br>
 参考:
 <img width="871" alt="スクリーンショット 2023-02-17 6 54 40" src="https://user-images.githubusercontent.com/103611012/219495981-8d7d45b4-8ed1-4fe8-89aa-d60cebd1e89b.png">  
-<img width="441" alt="スクリーンショット 2023-02-17 6 54 52" src="https://user-images.githubusercontent.com/103611012/219495960-b5083969-e925-4f46-8ddd-05503f7806dc.png">
+<img width="871" alt="スクリーンショット 2023-02-17 6 54 52" src="https://user-images.githubusercontent.com/103611012/219495960-b5083969-e925-4f46-8ddd-05503f7806dc.png">
 
 # :airplane:機能一覧
 1. bleを活用したwifiとログイン情報の送信
@@ -48,7 +48,7 @@ RI Controllerはセンサーを搭載したIoTデバイスで取得した室内�
 
 # システム構成
 以下の図のシステム構成で進めました。  
-<img width="973" alt="image" src="https://user-images.githubusercontent.com/103611012/219497501-af417f82-3f11-431a-9bf7-822104cc5844.png">
+<img width="871" alt="image" src="https://user-images.githubusercontent.com/103611012/219497501-af417f82-3f11-431a-9bf7-822104cc5844.png">
 
 # :repeat_one:アーキテクチャ
 MVVMを意識して作りました。
